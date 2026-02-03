@@ -42,9 +42,8 @@ Model performance is evaluated using **Accuracy Score**, which measures the prop
 ---
 
 ## How to Run
-1. Install all required Python libraries listed in the requirements file.
-2. Run the Python program to train and evaluate the models.
-3. Review the generated accuracy results for comparison.
+1. Run the Python program to train and evaluate the models on Google Colab.
+2. Review the generated accuracy results for comparison.
 
 ---
 
@@ -55,11 +54,6 @@ The project produces an accuracy comparison table showing the performance of eac
 
 ## Conclusion
 The results demonstrate that sampling techniques significantly influence model performance on imbalanced datasets. No single sampling method performs best across all models, emphasizing the importance of selecting appropriate techniques based on the algorithm and data characteristics.
-
----
-
-## Requirements
-All required Python libraries are specified in the requirements file.
 
 ---
 
